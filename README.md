@@ -1,4 +1,4 @@
-# Agricultural Machine Learning Projects
+# Agricultural Machine Learning Projects 
 
 This repository contains hands-on machine learning projects developed in Python using simulated agricultural data. The projects demonstrate my progression in applying supervised and unsupervised machine learning techniques, evaluating model performance, visualizing results, and improving code structure.
 
@@ -65,11 +65,11 @@ The original notebooks document the learning and experimentation process. The cl
 **Unsupervised Learning:** K-means clustering is used to discover groups within data without providing the model with predefined target labels.
 
 ## Repository Files
+- [Crop Yield Prediction — Original Linear Regression](Farm_Yield_Linear_Regression.ipynb) — Initial supervised learning implementation
+- [Crop Yield Prediction — Cleaner Linear Regression](RLinearregession_cleaner%20approach.ipynb) — Refactored workflow with train/test evaluation
+- [Farm Plot Segmentation — Original K-means](Farm_Plot_KMeans_Clustering.ipynb) — Initial unsupervised clustering implementation
+- [Farm Plot Segmentation — Cleaner K-means](Farm_Plot_KMeans_Clean.ipynb) — Refactored clustering workflow with model evaluation
 
-- `Farm_Yield_Linear_Regression.ipynb` — original Linear Regression project
-- `RLinearregession_cleaner approach.ipynb` — cleaner Linear Regression workflow
-- `Farm_Plot_KMeans_Clustering.ipynb` — original K-means clustering project
-- `Farm_Plot_KMeans_Clean.ipynb` — cleaner K-means clustering workflow
 
 ## Data Note
 
